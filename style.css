@@ -1,0 +1,53 @@
+.dogelogo {
+
+position: absolute;
+width: 600px;
+height: 600px;
+left: 745px;
+top: 90px;
+
+background: url(Dogecoin.png);
+
+}
+
+.heading {
+/* THE DOGECOIN PAGE */
+
+position: absolute;
+width: 630px;
+height: 360px;
+left: 146px;
+top: 186px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 700;
+font-size: 96px;
+line-height: 128px;
+
+color: #000000;
+
+
+
+}
+
+.subheading{
+    position: absolute;
+    width: 630px;
+    height: 360px;
+    left: 146px;
+    top: 186px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 128px;
+    
+    color: #00FF55;
+}
+
+
+
+
+
